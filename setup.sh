@@ -7,7 +7,7 @@ GREEN='\033[0;32m'
 NC='\033[0m'
 
 BOT_DIR="/opt/melih-bot"
-REPO_URL="https://github.com/melih022/m123.git"
+REPO_URL="https://github.com/melih022/123.git"
 
 echo -e "${GREEN}Melih Can Müzik Botu kurulumu başlatılıyor...${NC}"
 
